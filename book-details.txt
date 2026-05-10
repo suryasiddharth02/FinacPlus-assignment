@@ -1,7 +1,0 @@
-Book Store — Search Result Details
-========================================
-Title     : Title :
-Author    : Author :
-Publisher : Publisher :
-
-Captured at: 2026-05-09T13:35:34.539Z
