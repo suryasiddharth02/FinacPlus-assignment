@@ -57,10 +57,10 @@ npx playwright test ui-bookstore.spec.js
 npx playwright test api-reqres.spec.js
 
 # Watch the browser live
-npm run test --headed
+npx playwright run test --headed
 
 # Open the HTML report after a run
-npm playwright show-report
+npx playwright show-report
 ```
 
 ---
