@@ -48,19 +48,19 @@ npx playwright install chromium
 
 ```bash
 # Run all tests (UI + API)
-npm test
+npx playwright test
 
 # UI tests only
-npm run test:ui
+npx playwright test ui-bookstore.spec.js
 
 # API tests only
-npm run test:api
+npx playwright test api-reqres.spec.js
 
 # Watch the browser live
-npm run test:headed
+npm run test --headed
 
 # Open the HTML report after a run
-npm run report
+npm playwright show-report
 ```
 
 ---
